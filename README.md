@@ -8,6 +8,7 @@ My journey learning C++ and graphics programming for game development.
 ## Progress
 ### Month 1: C++ Fundamentals 
 - [x] Day 1: Basic calculator
+- [x] Day 2: Added validations to the calculator 
 
 ### Current Focus
 Learning C++ fundamentals.
