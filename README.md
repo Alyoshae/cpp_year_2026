@@ -9,6 +9,7 @@ My journey learning C++ and graphics programming for game development.
 ### Month 1: C++ Fundamentals 
 - [x] Day 1: Basic calculator
 - [x] Day 2: Added validations to the calculator 
+- [x] Day 3: Initiated a vector calculator using c-arrays, the main structure and the function in charge of making the vectors are finished.
 
 ### Current Focus
 Learning C++ fundamentals.
