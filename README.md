@@ -10,9 +10,14 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 1: Basic calculator
 - [x] Day 2: Added validations to the calculator 
 - [x] Day 3: Initiated a vector calculator using c-arrays, the main structure and the function in charge of making the vectors are finished.
+- [x] Day 4: Made a function in charge of choosing the c-arrays that it will be used on the adding and subs vectores function.
 
 ### Current Focus
+Learning C-arrays and it's manipulation. 
 Learning C++ fundamentals.
+
+## Observations 
+Day 4: quite some bugs, they will be fixed. 
 
 ## Resources
 - learncpp.com - Alex 
