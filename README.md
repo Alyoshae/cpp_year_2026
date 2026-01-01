@@ -14,6 +14,8 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 5: Did exercises to better understand arrays and indexing.
 - [x] Day 6: More exercises. 
 - [x] Day 7: Finished vectors sum and required validations.
+- [x] Day 8: Short magnitude exercise using the <cmath> library.
+
 
 ### Current Focus
 Learning C-arrays and it's manipulation. 
