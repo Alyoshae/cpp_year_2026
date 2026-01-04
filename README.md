@@ -17,7 +17,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 8: Short magnitude exercise using the cmath library.
 - [x] Day 9: Short dot product exercise returninig escalar. 
 - [x] Day 10: Finished Vector calculator using c-arrays.
-
+- [x] Day 11: Introduction de std::vector, study day. 
 
 
 ### Current Focus
