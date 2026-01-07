@@ -20,6 +20,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 11: Introduction de std::vector, study day. 
 - [x] Day 12: Matrix 3x3 with std::vector, study day. 
 - [x] Day 13: Did functions exercises to fully comprenhend parameters and return value functions. 
+- [x] Day 14: Started pointers chapter; L-References and R-references.
 
 
 ### Current Focus
