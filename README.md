@@ -22,6 +22,8 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 13: Did functions exercises to fully comprenhend parameters and return value functions. 
 - [x] Day 14: Started pointers chapter; L-References and R-references.
 - [x] Day 15: L-references and R-references.
+- [x] Day 16: &-references and functions. 
+
 
 
 
