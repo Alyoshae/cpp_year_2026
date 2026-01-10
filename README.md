@@ -23,6 +23,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 14: Started pointers chapter; L-References and R-references.
 - [x] Day 15: L-references and R-references.
 - [x] Day 16: &-references and functions. 
+- [x] Day 17: &-references and functions again. 
 
 
 
