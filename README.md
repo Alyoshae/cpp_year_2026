@@ -24,7 +24,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 15: L-references and R-references.
 - [x] Day 16: &-references and functions. 
 - [x] Day 17: &-references and functions again. 
-
+- [x] Day 18: random number given exercise, just for fun. 
 
 
 
