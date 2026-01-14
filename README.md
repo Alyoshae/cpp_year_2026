@@ -26,7 +26,8 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 17: &-references and functions again. 
 - [x] Day 18: random number given exercise, just for fun. 
 - [x] Day 19: Pointers - study day. 
-- [x] Day 20: Pointers exercise 
+- [x] Day 20: Pointers exercise.
+- [x] Day 21: Pointers exercise. 
 
 
 
