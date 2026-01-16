@@ -29,6 +29,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 20: Pointers exercise.
 - [x] Day 21: Pointers exercise. 
 - [x] Day 22: Pointers exercise. 
+- [x] Day 23: Pointers exercise. 
 
 
 
