@@ -31,7 +31,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 22: Pointers exercise. 
 - [x] Day 23: Pointers exercise. 
 - [x] Day 24: c-math library, due to studying trigonometry. 
-
+- [x] Day 25: Sin function graph. 
 
 ### Current Focus
 Learning C++ fundamentals.
