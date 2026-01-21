@@ -35,6 +35,8 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 26: nullptrs and pointers exercise. 
 - [x] Day 27: Trigonometry exercise table. 
 - [x] Day 28: Pointers pass functions, NOT DONE.
+- [x] Day 29: Began chapter 13 enums & structs.
+
 
 ### Current Focus
 Learning C++ fundamentals.
