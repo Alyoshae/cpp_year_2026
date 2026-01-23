@@ -36,10 +36,14 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 27: Trigonometry exercise table. 
 - [x] Day 28: Pointers pass functions, NOT DONE.
 - [x] Day 29: Began chapter 13 enums & structs.
+- [x] Day 30: enums to strings transform. 
+- [x] Day 31: 
+
+### Month 2: C++ Fundamentals. 
 
 
 ### Current Focus
-Learning C++ fundamentals.
+Learning C++ fundamentals and studying vectors. 
 
 ## Observations 
 Changed the way we studied, since i felt some basic comprehensions were needed prior std::vector. 
