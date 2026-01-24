@@ -37,7 +37,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 28: Pointers pass functions, NOT DONE.
 - [x] Day 29: Began chapter 13 enums & structs.
 - [x] Day 30: enums to strings transform. 
-- [x] Day 31: 
+- [x] Day 31: enums to strings use. 
 
 ### Month 2: C++ Fundamentals. 
 
