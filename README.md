@@ -40,6 +40,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 31: enums to strings use. 
 
 ### Month 2: C++ Fundamentals. 
+- [x] Day 01: strucst introduction and exercise.  
 
 
 ### Current Focus
