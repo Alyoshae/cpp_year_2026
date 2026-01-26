@@ -42,6 +42,7 @@ My journey learning C++ and graphics programming for game development.
 ### Month 2: C++ Fundamentals. 
 - [x] Day 01: strucst introduction and exercise. 
 - [x] Day 02: structs exercise and i|o operator overloading. (thanks pedro)
+- [x] Day 03: c-arrays and structs exercise. (thanks willy)
 
 
 
