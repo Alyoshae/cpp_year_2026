@@ -2,7 +2,7 @@
 My journey learning C++ and graphics programming for game development.
 
 ## Goals
-- Master C++ fundamentals
+- Master C++ 
 - I'm only allowed to skip a day if I previously made 2 commits the day before the one I'm skipping. 
 
 ## Progress
@@ -44,17 +44,10 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 02: structs exercise and i|o operator overloading. (thanks pedro)
 - [x] Day 03: c-arrays and structs exercise. (thanks willy)
 - [x] Day 04: classes and some pointers new knowledge. 
-
-
-
-### Current Focus
-Learning C++ fundamentals
-
-## Observations 
-Changed the way we studied, since i felt some basic comprehensions were needed prior std::vector. 
+- [x] Day 05: CRUCIAL DAY, BEGAN NEW BOOK, BJARNE STROUSTRUPS, NEW WAY OF LEARNING. 
 
 ## Resources
-- Programming: Principles and Practice Using C++ - Bjarne Stroustrup 
+- Programming: Principles and Practice Using C++ - Bjarne Stroustrup pagina 80...
 - learncpp.com - Alex 
 - 3D Math Primer for Graphics and Game Development - Fletcher Dunn 
 - Linear Algebra - Grossman
