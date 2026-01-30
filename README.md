@@ -45,6 +45,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 03: c-arrays and structs exercise. (thanks willy)
 - [x] Day 04: classes and some pointers new knowledge. 
 - [x] Day 05: CRUCIAL DAY, BEGAN NEW BOOK, BJARNE STROUSTRUPS, NEW WAY OF LEARNING. 
+- [x] Day 06: vector class without vectors. 
 
 ## Resources
 - Programming: Principles and Practice Using C++ - Bjarne Stroustrup pagina 80...
