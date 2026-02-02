@@ -48,6 +48,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 06: vector class without vectors. 
 - [x] Day 07: Stack knowledge and endeded chapter 7 part 1 bjarne stroustrup. 
 - [x] Day 08: std::vector class private and public aproach. 
+- [x] Day 09: tic tac toe (WIT)
 
 ## Resources
 - Programming: Principles and Practice Using C++ - Bjarne Stroustrup pagina 80...
