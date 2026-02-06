@@ -48,11 +48,12 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 06: vector class without vectors. 
 - [x] Day 07: Stack knowledge and endeded chapter 7 part 1 bjarne stroustrup. 
 - [x] Day 08: std::vector class private and public aproach. 
-- [x] Day 09: tic tac toe (WIT)
-- [x] Day 10: tic tac toe (WIT)
-- [x] Day 11: tic tac toe (WIT)
-- [x] Day 12: tic tac toe (WIT)
+- [x] Day 09: tic tac toe (WIP)
+- [x] Day 10: tic tac toe (WIP)
+- [x] Day 11: tic tac toe (WIP)
+- [x] Day 12: tic tac toe (WIP)
 - [x] Day 13: Chapter 5 stroustrup - calulator (WIP)
+- [x] Day 14: Chapter 5 stroustrup - calculator (WIP)
 
 
 
