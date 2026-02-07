@@ -54,6 +54,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 12: tic tac toe (WIP)
 - [x] Day 13: Chapter 5 stroustrup - calulator (WIP)
 - [x] Day 14: Chapter 5 stroustrup - calculator (WIP)
+- [x] Day 15: Chapter 5 stroustrup - calculator finished
 
 
 
