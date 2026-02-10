@@ -56,6 +56,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 14: Chapter 5 stroustrup - calculator (WIP)
 - [x] Day 15: Chapter 5 stroustrup - calculator finished
 - [x] Day 16: study calculator use of buffer. 
+- [x] Day 17: buffer and strings useof.
 
 
 
