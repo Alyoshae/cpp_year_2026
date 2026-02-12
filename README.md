@@ -59,8 +59,9 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 17: buffer and strings useof.
 - [x] Day 18: I/O stream model. 
 
-### Circle collitioner 
-- [x] Day 1: SFML intro 
+### Month 3: SFML and C++
+- [x] Day 1: SFML install and CMake file
+- [x] Day 2: SFML first screen
 
 
 
