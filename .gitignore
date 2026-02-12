@@ -1,2 +1,11 @@
 .DS_Store
 *.dSYM/
+build/
+bin/
+.vscode/
+CMakeSettings.json
+*.sublime-project
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile

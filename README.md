@@ -59,10 +59,14 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 17: buffer and strings useof.
 - [x] Day 18: I/O stream model. 
 
+### Circle collitioner 
+- [x] Day 1: SFML intro 
+
 
 
 ## Resources
-- Programming: Principles and Practice Using C++ - Bjarne Stroustrup pagina 80...
+- Programming: Principles and Practice Using C++ - Bjarne Stroustrup 
 - learncpp.com - Alex 
 - 3D Math Primer for Graphics and Game Development - Fletcher Dunn 
 - Linear Algebra - Grossman
+- learn SFML.com - Community - books - videos 
