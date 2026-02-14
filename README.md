@@ -62,6 +62,7 @@ My journey learning C++ and graphics programming for game development.
 ### Month 3: SFML and C++
 - [x] Day 1: SFML install and CMake file
 - [x] Day 2: SFML first screen
+- [x] Day 3: SFML events study
 
 
 
