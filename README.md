@@ -64,6 +64,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 2: SFML first screen
 - [x] Day 3: SFML events study
 - [x] Day 4: SFML events study 
+- [x] Day 5: SFML events study
 
 
 
