@@ -11,7 +11,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(SFML 3 COMPONENTS Graphics Window System Audio REQUIRED)
 
-add_executable(MiApp 03/sfml.cpp)
+add_executable(MiApp 07/sfml2.cpp)
 
 target_link_libraries(MiApp 
     SFML::Graphics 
