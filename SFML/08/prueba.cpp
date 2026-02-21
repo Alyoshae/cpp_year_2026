@@ -6,7 +6,7 @@
 int main(){
     //window 
     sf::RenderWindow window(sf::VideoMode({800,600}), "My window");
-   window.setFramerateLimit(10);
+window.setFramerateLimit(60);
 
     //rectangle
     sf::RectangleShape rectangle({50.f, 50.f});
@@ -28,7 +28,7 @@ int main(){
         std::cout << dt << std::endl;
 
 
-       //close e vent
+       //close ventas
         while(const std::optional event = window.pollEvent()){
             if(event ->is<sf::Event::Closed>()){
                 window.close();
