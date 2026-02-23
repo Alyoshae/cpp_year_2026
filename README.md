@@ -69,6 +69,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 7: SFML events study
 - [x] Day 8: Delta time implemented 
 - [x] Day 9: Integral exam.
+- [x] Day 10: Integal study day. 
 
 
 
