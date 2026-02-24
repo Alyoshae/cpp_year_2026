@@ -71,6 +71,9 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 9: Integral exam.
 - [x] Day 10: Integal study day. 
 
+## New way 
+ -[x] Day 01: New. 
+
 
 
 ## Resources
@@ -79,3 +82,4 @@ My journey learning C++ and graphics programming for game development.
 - 3D Math Primer for Graphics and Game Development - Fletcher Dunn 
 - Linear Algebra - Grossman
 - learn SFML.com - Community - books - videos 
+- numbers 
