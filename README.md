@@ -5,7 +5,7 @@ My journey learning C++ and graphics programming for game development.
 - Master C++ 
 
 ## Progress
-### Month 1: C++ Fundamentals 
+### C++ Fundamentals 
 - [x] Day 1: Basic calculator
 - [x] Day 2: Added validations to the calculator 
 - [x] Day 3: Initiated a vector calculator using c-arrays, the main structure and the function in charge of making the vectors are finished.
@@ -38,7 +38,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 30: enums to strings transform. 
 - [x] Day 31: enums to strings use. 
 
-### Month 2: C++ Fundamentals. 
+### C++ Fundamentals. 
 - [x] Day 01: strucst introduction and exercise. 
 - [x] Day 02: structs exercise and i|o operator overloading. (thanks pedro)
 - [x] Day 03: c-arrays and structs exercise. (thanks willy)
@@ -58,7 +58,7 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 17: buffer and strings useof.
 - [x] Day 18: I/O stream model. 
 
-### Month 3: SFML and C++
+### SFML and C++
 - [x] Day 1: SFML install and CMake file
 - [x] Day 2: SFML first screen
 - [x] Day 3: SFML events study
@@ -70,9 +70,8 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 9: Integral exam.
 - [x] Day 10: Integal study day. 
 
-## February
-- [x] February 25: 
-
+## Alyosha
+- [x] February 25: creating a new vector type list 
 
 
 
