@@ -1,9 +1,8 @@
-# 365 commits 
+# Alyosha
 My journey learning C++ and graphics programming for game development.
 
 ## Goals
 - Master C++ 
-- I'm only allowed to skip a day if I previously made 2 commits the day before the one I'm skipping. 
 
 ## Progress
 ### Month 1: C++ Fundamentals 
@@ -71,9 +70,9 @@ My journey learning C++ and graphics programming for game development.
 - [x] Day 9: Integral exam.
 - [x] Day 10: Integal study day. 
 
-## New way 
- - [x] Day 01: New. 
- - [x] Day 02: New. 
+## February
+- [x] February 25: 
+
 
 
 
