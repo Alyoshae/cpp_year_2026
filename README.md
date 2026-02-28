@@ -72,6 +72,8 @@ My journey learning C++ and graphics programming for game development.
 
 ## Alyosha
 - [x] February 25: creating a new vector type list 
+- [x] February 27: creating a new vector type list and classes 
+
 
 
 
